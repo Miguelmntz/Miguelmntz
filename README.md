@@ -28,4 +28,4 @@ Actualmente cursando el Ciclo Formativo de Grado Superior en **Desarrollo de Apl
 ### 📫 Conecta conmigo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-mart%C3%ADn-mart%C3%ADnez-2658aa2a2)
-[![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maartinn2002@gmail.com)
+[![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=maartinn2002@gmail.com)
