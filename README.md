@@ -1,11 +1,11 @@
 # ¡Hola! Soy Miguel Martín 
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Miguelmntz&show_icons=true&theme=tokyonight&count_private=true&cache=1" width="400" alt="Estadísticas de Miguel" />
+  <img src="https://github-readme-stats-one-eight.vercel.app/api?username=Miguelmntz&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="Estadísticas de Miguel" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Miguelmntz&layout=compact&theme=tokyonight&hide_langs_below=1&cache=1" width="350" alt="Lenguajes de Miguel" />
+  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=Miguelmntz&layout=compact&theme=tokyonight&hide_border=true" width="350" alt="Lenguajes de Miguel" />
 </p>
 ---
 
