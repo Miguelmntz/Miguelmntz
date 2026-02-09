@@ -1,8 +1,8 @@
 # ¡Hola! Soy Miguel Martín 
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Miguelmntz&show_icons=true&theme=tokyonight" width="400" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Miguelmntz&layout=compact&theme=tokyonight" width="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Miguelmntz&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Miguelmntz&theme=tokyonight" width="400" />
 </p>
 ---
 
