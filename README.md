@@ -1,4 +1,8 @@
-# ¡Hola! Soy Miguel Martín 
+<p align="center">
+  <img src="BannerGithub.png" alt="Banner Miguel Martínez" width="100%">
+</p>
+
+# ¡Hola! Soy Miguel Martín un apasionado del desarrollo web actualmente enfocado en el Grado Superior de DAW. Me encanta resolver problemas mediante código y estoy constantemente aprendiendo nuevas tecnologías, especialmente en el ecosistema de PHP y JavaScript. Mi objetivo es crear experiencias digitales que marquen la diferencia.
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Miguelmntz&theme=tokyonight" />
