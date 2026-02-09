@@ -1,10 +1,9 @@
 # ¡Hola! Soy Miguel Martín 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguelmntz&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Miguel" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelmntz&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="300" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Miguelmntz&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Miguelmntz&layout=compact&theme=tokyonight" width="300" />
 </p>
-
 ---
 
 ### 🎓 Formación y Perfil
