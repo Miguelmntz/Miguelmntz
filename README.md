@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Miguelmntz&theme=tokyonight" />
 </p>
----
+
 
 ### 🎓 Formación y Perfil
 Actualmente cursando el Ciclo Formativo de Grado Superior en **Desarrollo de Aplicaciones Web (DAW)**. Me apasiona el desarrollo backend y la gestión de bases de datos.
