@@ -10,18 +10,11 @@
 
 
 ### 🎓 Formación y Perfil
-Actualmente cursando el Ciclo Formativo de Grado Superior en **Desarrollo de Aplicaciones Web (DAW)**. Me apasiona el desarrollo backend y la gestión de bases de datos.
+Ciclo Formativo de Grado Superior en **Desarrollo de Aplicaciones Web (DAW)** terminado.
+
+Actualmente cursando el Ciclo Formativo de Especialización de Ciberseguridad.
 
 
-### 🚀 Mis Proyectos Destacados (DAW)
-
-| Proyecto | Tecnologías | Descripción | Enlace |
-| :--- | :--- | :--- | :--- |
-| **Portfolio Personal** | `HTML` `JS` `Sass` | Mi primera web con diseño adaptativo. | [Ver Código](https://github.com/Miguelmntz) |
-| **Tienda Online** | `PHP` `Laravel` `MySQL` | (En proceso) Sistema de gestión de inventario. | [Ver Código](https://github.com/Miguelmntz) |
-| **App de Tareas** | `JavaScript` `Localstorage` | Gestor de tareas diarias con modo oscuro. | [Ver Código](https://github.com/Miguelmntz) |
-
-> 🚧 *¡Pronto publicaré más proyectos de clase! Estén atentos a las actualizaciones.*
 ---
 
 ### 🛠️ Mi Stack Tecnológico
